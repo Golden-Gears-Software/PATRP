@@ -10,6 +10,7 @@
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_plastic1","path":"sprites/spr_plastic1/spr_plastic1.yy",},"order":19,},
     {"id":{"name":"spr_magnet","path":"sprites/spr_magnet/spr_magnet.yy",},"order":11,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":0,},
     {"id":{"name":"spr_fanInactive","path":"sprites/spr_fanInactive/spr_fanInactive.yy",},"order":22,},
     {"id":{"name":"backgroundMusic","path":"sounds/backgroundMusic/backgroundMusic.yy",},"order":0,},
     {"id":{"name":"spr_plasticBin","path":"sprites/spr_plasticBin/spr_plasticBin.yy",},"order":7,},
