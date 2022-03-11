@@ -23,7 +23,7 @@
     {"id":{"name":"obj_metalBin","path":"objects/obj_metalBin/obj_metalBin.yy",},"order":12,},
     {"id":{"name":"obj_plastic","path":"objects/obj_plastic/obj_plastic.yy",},"order":1,},
     {"id":{"name":"obj_plastic2","path":"objects/obj_plastic2/obj_plastic2.yy",},"order":6,},
-    {"id":{"name":"obj_metal","path":"objects/obj_metal/obj_metal.yy",},"order":13,},
+    {"id":{"name":"obj_magnet","path":"objects/obj_magnet/obj_magnet.yy",},"order":13,},
     {"id":{"name":"spr_fanInactive","path":"sprites/spr_fanInactive/spr_fanInactive.yy",},"order":22,},
     {"id":{"name":"backgroundMusic","path":"sounds/backgroundMusic/backgroundMusic.yy",},"order":0,},
     {"id":{"name":"obj_fan","path":"objects/obj_fan/obj_fan.yy",},"order":14,},
