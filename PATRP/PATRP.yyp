@@ -11,6 +11,7 @@
     {"id":{"name":"spr_metal1","path":"sprites/spr_metal1/spr_metal1.yy",},"order":12,},
     {"id":{"name":"spr_fan","path":"sprites/spr_fan/spr_fan.yy",},"order":8,},
     {"id":{"name":"spr_panicLogo","path":"sprites/spr_panicLogo/spr_panicLogo.yy",},"order":15,},
+    {"id":{"name":"RoomFactory","path":"sprites/RoomFactory/RoomFactory.yy",},"order":24,},
     {"id":{"name":"spr_paper2","path":"sprites/spr_paper2/spr_paper2.yy",},"order":17,},
     {"id":{"name":"obj_plastic1","path":"objects/obj_plastic1/obj_plastic1.yy",},"order":5,},
     {"id":{"name":"obj_paperBin","path":"objects/obj_paperBin/obj_paperBin.yy",},"order":11,},
@@ -49,6 +50,7 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
+  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -80,7 +82,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.1.0.609",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "PATRP",

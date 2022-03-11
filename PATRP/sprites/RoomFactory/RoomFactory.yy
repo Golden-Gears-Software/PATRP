@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 1599,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 895,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 1600,
+  "height": 896,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7ed9ac37-6eee-4847-9750-cc10e7a7dcee","path":"sprites/Sprite23/Sprite23.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7ed9ac37-6eee-4847-9750-cc10e7a7dcee","path":"sprites/Sprite23/Sprite23.yy",},"LayerId":{"name":"3e055843-984a-49dd-a58d-7afaa800f668","path":"sprites/Sprite23/Sprite23.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},"resourceVersion":"1.0","name":"7ed9ac37-6eee-4847-9750-cc10e7a7dcee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"75a8c631-c1f1-4806-89ba-d79b4364c212","path":"sprites/RoomFactory/RoomFactory.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"75a8c631-c1f1-4806-89ba-d79b4364c212","path":"sprites/RoomFactory/RoomFactory.yy",},"LayerId":{"name":"b9356351-8817-4b7b-b53c-6d360405476c","path":"sprites/RoomFactory/RoomFactory.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RoomFactory","path":"sprites/RoomFactory/RoomFactory.yy",},"resourceVersion":"1.0","name":"75a8c631-c1f1-4806-89ba-d79b4364c212","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},
+    "spriteId": {"name":"RoomFactory","path":"sprites/RoomFactory/RoomFactory.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"31d1f546-d0a0-4041-a299-f0e4f1bfd232","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ed9ac37-6eee-4847-9750-cc10e7a7dcee","path":"sprites/Sprite23/Sprite23.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"110681e2-8f77-4088-9cb0-3108cb9c13bb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"75a8c631-c1f1-4806-89ba-d79b4364c212","path":"sprites/RoomFactory/RoomFactory.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},
+    "parent": {"name":"RoomFactory","path":"sprites/RoomFactory/RoomFactory.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite23",
+    "name": "RoomFactory",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3e055843-984a-49dd-a58d-7afaa800f668","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b9356351-8817-4b7b-b53c-6d360405476c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "PATRP",
-    "path": "PATRP.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite23",
+  "name": "RoomFactory",
   "tags": [],
   "resourceType": "GMSprite",
 }
