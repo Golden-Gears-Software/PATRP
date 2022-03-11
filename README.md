@@ -9,3 +9,6 @@ All game artwork was created by our artist, [hvoelkerAI](https://github.com/hvoe
 - Recycling Bin Sprites Base Image:
   S, Tim. 2018. Waste Separation. Image. https://pixabay.com/illustrations/garbage-can-waste-separation-waste-3415658/.
   Result Image created using [Pixel It](https://giventofly.github.io/pixelit/)
+
+- Conveyor Belt Sprites:
+  Chromaeleon. 2017. Conveyor Belts Sprite Sheet. Image. https://opengameart.org/content/conveyor-belts-spritesheet-anims.
