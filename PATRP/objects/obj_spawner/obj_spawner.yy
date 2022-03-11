@@ -25,6 +25,8 @@
   "properties": [
     {"varType":0,"value":"150","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"spawnInterval","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":5,"value":"obj_paper1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"objectType","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":5,"value":"obj_metal1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"objectType2","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":5,"value":"obj_plastic1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"objectType3","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
