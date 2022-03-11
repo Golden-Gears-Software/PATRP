@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite23",
-    "path": "sprites/Sprite23/Sprite23.yy",
+    "name": "spr_fan",
+    "path": "sprites/spr_fan/spr_fan.yy",
   },
   "solid": false,
   "visible": true,

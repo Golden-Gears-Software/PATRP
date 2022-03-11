@@ -7,7 +7,6 @@
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
     {"id":{"name":"spr_tileSet","path":"sprites/spr_tileSet/spr_tileSet.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
-    {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},"order":15,},
     {"id":{"name":"obj_metal1","path":"objects/obj_metal1/obj_metal1.yy",},"order":7,},
     {"id":{"name":"spr_metal1","path":"sprites/spr_metal1/spr_metal1.yy",},"order":12,},
     {"id":{"name":"spr_fan","path":"sprites/spr_fan/spr_fan.yy",},"order":8,},
