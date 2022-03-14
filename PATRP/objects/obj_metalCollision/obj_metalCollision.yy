@@ -27,7 +27,9 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_paper1","path":"objects/obj_paper1/obj_paper1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":0,"value":"10","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"max_point_gain","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
