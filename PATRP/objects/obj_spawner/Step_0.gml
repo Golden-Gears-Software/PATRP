@@ -10,11 +10,14 @@ while (canSpawn == true){
 	
 	if (irandom(2) == 0){
 		instance_create_layer(x, y, Room1, objectType);
+		count+=.5;
 	}
 	else if (irandom(2) == 1){
 		instance_create_layer(x, y, Room1, objectType2);
+		count+=.5
 	}
 	else if(irandom(2) == 2){
 		instance_create_layer(x, y, Room1, objectType3);
+		count+=.5
 	}
 }
