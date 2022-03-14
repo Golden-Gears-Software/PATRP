@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Input-based fan animation
 // You can write your code in this editor
 
 if keyboard_check(ord("F")) {
