@@ -5,7 +5,7 @@
 while (canSpawn == true){
 	
 	canSpawn =false;
-	y=500
+	y=770
 	x = sprite_xoffset-1
 	
 	if (irandom(2) == 0){
