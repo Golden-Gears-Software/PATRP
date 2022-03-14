@@ -21,7 +21,7 @@
     {"id":{"name":"obj_plastic1","path":"objects/obj_plastic1/obj_plastic1.yy",},"order":5,},
     {"id":{"name":"obj_paperBin","path":"objects/obj_paperBin/obj_paperBin.yy",},"order":11,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
-    {"id":{"name":"paperCollision","path":"objects/paperCollision/paperCollision.yy",},"order":15,},
+    {"id":{"name":"obj_paperCollision","path":"objects/obj_paperCollision/obj_paperCollision.yy",},"order":15,},
     {"id":{"name":"spr_plastic1","path":"sprites/spr_plastic1/spr_plastic1.yy",},"order":19,},
     {"id":{"name":"spr_magnet","path":"sprites/spr_magnet/spr_magnet.yy",},"order":11,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":0,},
