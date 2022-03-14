@@ -34,7 +34,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "paperCollision",
+  "name": "obj_paperCollision",
   "tags": [],
   "resourceType": "GMObject",
 }
