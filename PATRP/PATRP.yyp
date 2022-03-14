@@ -6,7 +6,7 @@
     {"id":{"name":"obj_plasticBin","path":"objects/obj_plasticBin/obj_plasticBin.yy",},"order":10,},
     {"id":{"name":"obj_introWords","path":"objects/obj_introWords/obj_introWords.yy",},"order":19,},
     {"id":{"name":"spr_paperBin","path":"sprites/spr_paperBin/spr_paperBin.yy",},"order":5,},
-    {"id":{"name":"metalCollision","path":"objects/metalCollision/metalCollision.yy",},"order":2,},
+    {"id":{"name":"obj_metalCollision","path":"objects/obj_metalCollision/obj_metalCollision.yy",},"order":2,},
     {"id":{"name":"spr_tileSet","path":"sprites/spr_tileSet/spr_tileSet.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"obj_intro","path":"objects/obj_intro/obj_intro.yy",},"order":18,},
