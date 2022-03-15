@@ -7,4 +7,3 @@ if (hp <= 99.75){
 if (obj_scoreboard.lives == 0){
 	room_goto(Room2)
 }
-
