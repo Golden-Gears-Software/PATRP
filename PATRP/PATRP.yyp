@@ -36,6 +36,7 @@
     {"id":{"name":"obj_fan","path":"objects/obj_fan/obj_fan.yy",},"order":14,},
     {"id":{"name":"spr_plasticBin","path":"sprites/spr_plasticBin/spr_plasticBin.yy",},"order":7,},
     {"id":{"name":"spr_paper1","path":"sprites/spr_paper1/spr_paper1.yy",},"order":16,},
+    {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":4,},
     {"id":{"name":"Object14","path":"objects/Object14/Object14.yy",},"order":17,},
     {"id":{"name":"spr_cb","path":"sprites/spr_cb/spr_cb.yy",},"order":23,},
     {"id":{"name":"spr_magnetPull","path":"sprites/spr_magnetPull/spr_magnetPull.yy",},"order":26,},
@@ -47,6 +48,7 @@
     {"id":{"name":"obj_instructions","path":"objects/obj_instructions/obj_instructions.yy",},"order":20,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":1,},
     {"id":{"name":"spr_other","path":"sprites/spr_other/spr_other.yy",},"order":2,},
+    {"id":{"name":"obj_credits","path":"objects/obj_credits/obj_credits.yy",},"order":21,},
     {"id":{"name":"spr_RecyclePlant","path":"sprites/spr_RecyclePlant/spr_RecyclePlant.yy",},"order":21,},
     {"id":{"name":"spr_metalBin","path":"sprites/spr_metalBin/spr_metalBin.yy",},"order":6,},
   ],
@@ -69,6 +71,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
+    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
