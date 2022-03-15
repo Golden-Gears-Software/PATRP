@@ -21,17 +21,3 @@ while (canSpawn == true){
 		count+=.5
 	}
 }
-
-//Pause funciton
-if keyboard_check_pressed(ord("P")) {
-	paused =! paused
-	if paused == false {
-		{
-			instance_activate_all()
-			surface_free(paused_surf)
-			paused_surf = -1;
-		}
-	} else if paused == true {
-		alarm[0]++
-	}
-}
